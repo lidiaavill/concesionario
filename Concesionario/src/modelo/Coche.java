@@ -27,9 +27,11 @@ public class Coche {
         this.modelo = modelo;
         this.marca = marca;
         this.matricula = matricula;
-        this.anio = anio;
         this.precioSinIVA = precioSinIVA;
         this.precioConIVA = 29;
+        this.marca="Ford";
+        this.modelo="Focus";
+        this.anio=2020;
     }
 
     public Coche() {
