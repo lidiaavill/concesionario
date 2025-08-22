@@ -29,6 +29,7 @@ public class Coche {
         this.matricula = matricula;
         this.anio = anio;
         this.precioSinIVA = precioSinIVA;
+        this.precioConIVA = 29;
     }
 
     public Coche() {
